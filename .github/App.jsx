@@ -59,7 +59,7 @@ const App = () => {
                 cursor: "pointer",
                 textDecoration: todo.completed ? "line-through" : "none",
               }}
-            >
+          >
               {todo.text}
             </span>
 
